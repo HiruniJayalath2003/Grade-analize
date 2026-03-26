@@ -2,7 +2,7 @@
 
 This is a simple Python program to manage student marks and calculate grades.
 
-**Features**
+##**Features**
 1.Add student name and marks
 2.Calculate average
 3.Assign grade
